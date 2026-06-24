@@ -6,7 +6,7 @@ const categories = ['ALL', 'EXTERIOR', 'INTERIOR', 'PROTECTION']
 
 const services = [
   {
-    name: 'PREMIUM WASH & DECON',
+    name: 'PREMIUM WASH',
     desc: 'Deep clean that removes traffic film, tar, and bonded contaminants. Two-bucket method with pH-neutral snow foam.',
     cat: 'EXTERIOR',
     img: './assets/service-wash.jpg',
